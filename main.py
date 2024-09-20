@@ -172,7 +172,7 @@ async def main():
         os.system("clear")
         await client.load_extension("cogs")
         await client.load_extension("jishaku")
-        tkn = "OTA2MDg1NTc4OTA5NTQ4NTU0.GY8nds.JJ-k2ckUpGokqxdvbwlgJwmklthFvzqLR0qcwI"
+        tkn = "MTI4MTI3MjQ3NDk2ODkyMDA2NA.GnmAxf.8LgFNSWOzjw4UAh3VXga6YDJoWiuM6EAnFQ2Ec"
         await client.start(tkn)
 
 if __name__ == "__main__":
